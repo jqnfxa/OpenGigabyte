@@ -29,7 +29,7 @@ Linux drivers for Gigabyte devices.
 
 ### Ubuntu :
 ```
-sudo add-apt-repository ppa:jqnfxa/opengigabyte
+sudo add-apt-repository ppa:blmhemu/opengigabyte
 sudo apt update
 sudo apt install opengigabyte-driver-dkms
 ```
